@@ -1,7 +1,7 @@
 {
   "name": "@documint/grapesjs-component-custom",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom code component for grapesjs",
   "author": "Documint",
   "main": "dist/grapesjs-component-custom.min.js",
